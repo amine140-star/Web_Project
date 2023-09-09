@@ -1,0 +1,25 @@
+body {
+    font-family: Verdana;
+    color:black;
+}
+
+header, footer, section, article {
+    color: black;
+    border: 1px solid rgb(0, 0, 15);
+    margin: 4px;
+    padding: 6px;
+    background-color:  rgb(222, 218, 203);
+}
+
+header, footer {
+    background-color:   rgb(215, 192, 125) ;
+    text-decoration-color: #ddd8d8;
+}
+
+section {
+    color: black;
+    border-style: inset;
+    margin: 4px;
+    padding: 6px;
+    background-color:   rgb(214, 200, 146);
+}
